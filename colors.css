@@ -25,3 +25,8 @@ div {
 .navy {
   background-color:	#5D6D7E   ;
 }
+
+ { height: 100%; margin: 0; }
+div { height: 100%; width: 500%; background: black; }
+</style>
+<div></div>
