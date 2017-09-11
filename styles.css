@@ -1,0 +1,67 @@
+body {
+  width: 100%;
+	height: 100%;
+	background-color: Black;
+}
+
+
+.oneblock {
+ background-color: #6e00ff; 
+ width: 20%;
+ min-height: 30%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color:yellow;
+}
+
+.twoblock {
+ background-color:#00ff50 ; 
+ width: 30%;
+ min-height: 30%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color: yellow;
+}
+
+.threeblock {
+ background-color:#00fffa ; 
+ width: 40%;
+ min-height: 30%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color:yellow;
+}
+
+.fourblock {
+ background-color: #ff0000; 
+ width: 30%;
+ height: 70%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color:yellow;
+}
+
+.fiveblock {
+ background-color:#0935f7 ; 
+ width: 40%;
+ height: 70%;
+ display: inline-block;
+ font-family: Harrow, Impact;
+ font-size: 30px;
+ color: yellow;
+}
+
+
+p {
+ padding-top: 80px;
+    color: Blue;
+}
+
+.bottom {
+  padding-top: 250px;
+  color: White;
+}
